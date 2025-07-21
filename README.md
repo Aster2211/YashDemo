@@ -1,4 +1,4 @@
 # YashDemo
 First repository
 <br>
-Author - Yash Patankar(Kaustubh)
+Author - Yash Patankar
